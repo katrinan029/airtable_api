@@ -22,12 +22,11 @@ I used a Node.js server to create a page server-side using Pug.
 
 ## Technologies
 
-`
   * Pug
   * Tailwind
   * Node
   * Express
   * Airtable API
-`
+
 
 ![Shop hours](img/shop_hours.png)
